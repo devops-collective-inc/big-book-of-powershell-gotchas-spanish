@@ -1,0 +1,1 @@
+PowerShell está lleno de "trucos" - pequeñas cosas que a veces se interponen en su camino y son difíciles de averiguar por su cuenta. Este breve libro está destinado a ayudarle a resolverlos y evitarlos.
